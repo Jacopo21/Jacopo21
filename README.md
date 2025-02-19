@@ -1,6 +1,6 @@
 # Hey Hey 👋
 
-###### 🚀 Aspiring Data Scientist
+##### 🚀 Aspiring Data Scientist
 ### 🌱 Currently studying Data Science @ TU Wien, with a Master’s in Economics & Data
 ### 🔭 Working at Venionaire Capital, exploring AI & DeepTech investments
 ### 💡 Passionate about Machine Learning, Financial Forecasting & AI-driven Insights
